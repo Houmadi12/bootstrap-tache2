@@ -363,4 +363,8 @@ button {
     font-weight: 700;
     color: var(--text-gray);
 }
+
+.contact_wrapper .form-control::placeholder {
+    color: var(--text-gray);
+}
 /* footer */
